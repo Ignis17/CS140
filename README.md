@@ -4,3 +4,4 @@
 ### Included here:
 - Assignments
 - Labs
+- Projects
