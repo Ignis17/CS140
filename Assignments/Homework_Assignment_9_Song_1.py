@@ -1,0 +1,30 @@
+# Author: Joel Turbi
+# Assignment: Homework Assignment #9 - Song 1
+# Course: CS140
+
+def chorus():
+    print("You Are My Sunshine")
+    print("My only sunshine.")
+    print("You make me happy")
+    print("When skies are grey.")
+    print("You'll never know, dear,")
+    print("How much I love you.")
+    print("Please don't take my sunshine away")
+    print()
+chorus()
+print("The other nite, dear,")
+print("As I lay sleeping")
+print("I dreamed I held you in my arms.")
+print("When I awoke, dear,")
+print("I was mistaken")
+print("And I hung my head and cried.")
+print()
+chorus()
+print("I'll always love you")
+print("And make you happy")
+print("If you will only say the name")
+print("But if you leave me")
+print("To love another")
+print("You'll regret it all some day;")
+print()
+chorus()
