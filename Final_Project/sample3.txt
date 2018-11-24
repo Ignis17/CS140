@@ -25,67 +25,67 @@ I had a friend, Andrei. They did two operations on him and then sent him home. S
 Yulia, Katya, Vadim, Oksana, Oleg, and now Andrei. "We'll die, and then we'll become science," Andrei used to say. "We'll die and everyone will forget us," Katya said. "When I die, don't bury me at the cemetery, I'm afraid of the cemetery, there are only dead people and crows there," said Oksana. "Bury me in the field." Yulia used to just cry. The whole sky is alive for me now when I look at it, because they're all there.
 
 Results for each input file
-File Sample1.txt Result 
+File Sample1.txt Result
 1
-have missed my brain wants to the arena food containers of water but then the ground a gong releases us step off but then the cornucopia a tent pack up a few steps from almost up most of this girl even 
+have missed my brain wants to the arena food containers of water but then the ground a gong releases us step off but then the cornucopia a tent pack up a few steps from almost up most of this girl even
 
-ground that i had he would pass up a tent pack at me to decide what i sling the girl will be almost up most of plastic and i am fast i make for the very weapon since that if i 
+ground that i had he would pass up a tent pack at me to decide what i sling the girl will be almost up most of plastic and i am fast i make for the very weapon since that if i
 
-general fear i have lost by the tributes across from the direction my feet lies a curved tail the minute must be my shoulders now i know the gong rings out of ground that might be shaking his head the time 
+general fear i have lost by the tributes across from the direction my feet lies a curved tail the minute must be my shoulders now i know the gong rings out of ground that might be shaking his head the time
 
-we grapple for it i have to stand on our school although a downpour but toward the packs and fight for me i have reached the pack that will have been feeling condenses into the warm sticky spray then i can 
+we grapple for it i have to stand on our school although a downpour but toward the packs and fight for me i have reached the pack that will have been feeling condenses into the warm sticky spray then i can
 
-first but the question is when i can reach it is the time we are other tributes across from the cornucopia and a cliff to go for it first but toward the career tributes who survive the arena food containers of 
-2 
-2 ten yards to go in the pack up the pile i have reached the minute must be almost any of hard-packed dirt behind the girls in the bounty waiting there resting on my brain wants to stand leaving with the 
-
-know i make for instance only target i can between yourselves and land mines blow your legs off but toward me to my eyes and then the mouth of these life-sustaining spoils something catches my shoulders now i am puzzling over 
-
-the surrounding forests but this is at me that whole pile toward the surrounding forests but it first but then i had he is a silver sheath of some use in the career tributes have lost by the very weapon since 
-
-medicine garments fire starters strewn around the blade lodges in the minute must be drawn back already strung just waiting there before all the bow already other supplies their own powerful fists still i have reached the knife in distance as 
-
-open stretch of a source of blanket rolls is when suddenly i am built for it is how long we are on a half-dozen knives i can between yourselves and one bow already other tributes have lost by the pile toward 
-
-File Sample2.txt Result 
-1 
-screamingly mad at all he gave back to begin the boy the stains on the hall stopped at him as unwinnable valiant as an aversion to be afraid to smoke quickly discovered that made sure that are deadly in the blades 
-
-pass through walls the hous then you're right baron and the flea at first had an untidy blond beard sticking out here upstairs aragon exchanged angry glances richey got serious they might daylight comes or perhaps he stumped down the monster 
-
-obviously harmless flickering shado struggling to the time and buried his squeaky voice at trudys back down he had been taught at him i mean i recall ever i recall ever meeting before they passed clean through him until incredibly richey 
-
-out darkness and chairs poorly arranged a blade together went plunging back that was really dangerous enough for its throat the fat man cuirass he is regrettable that young blade and you take everything else off the old lady sniffed well 
-
-her elbow said when their stints no water and the dead they headed for the middle of course she looked inquiringly at least that day for odd sensations did it the way in a fool of the hall that slinky white 
+first but the question is when i can reach it is the time we are other tributes across from the cornucopia and a cliff to go for it first but toward the career tributes who survive the arena food containers of
 2
-or thereabouts nolly gave the blades had begun there they came until he was another of wherever who were already the grand duke whosit of its neck was an exciting evening it was a firm hold of its halberd on that 
+2 ten yards to go in the pack up the pile i have reached the minute must be almost any of hard-packed dirt behind the girls in the bounty waiting there resting on my brain wants to stand leaving with the
 
-the smoky figure bernard had emerged from the stair and grand duke whosit of the marble staircase and water death roll four elements he leaped back parrying his great bulk and aragon joined in his left hand and to work on 
+know i make for instance only target i can between yourselves and land mines blow your legs off but toward me to my eyes and then the mouth of these life-sustaining spoils something catches my shoulders now i am puzzling over
 
-load on the signal so the other night honors all the fallen table it is dead they piled into nolly gave the yeomen did it was clear view around the rug and crept underneath leave it mother mother celandine pursued thin 
+the surrounding forests but this is at me that whole pile toward the surrounding forests but it first but then i had he is a silver sheath of some use in the career tributes have lost by the very weapon since
 
-her he swung its boot he said firmly that mean trudy resisted the apparition himself then they dangerous in shiny breastplate were flying ash gradually slowing and proclaimed at the blades quite absurdly but something wrong sister gertrude was playing statue 
+medicine garments fire starters strewn around the blade lodges in the minute must be drawn back already strung just waiting there before all the bow already other supplies their own powerful fists still i have reached the knife in distance as
 
-hour or thereabouts nolly gave back obviously harmless it reached him until incredibly richey fell on duty who were made to the baron were turning his grin bernard doubled the other two lights and it nobody doubled the procession formed up 
+open stretch of a source of blanket rolls is when suddenly i am built for it is how long we are on a half-dozen knives i can between yourselves and one bow already other tributes have lost by the pile toward
+
+File Sample2.txt Result
+1
+screamingly mad at all he gave back to begin the boy the stains on the hall stopped at him as unwinnable valiant as an aversion to be afraid to smoke quickly discovered that made sure that are deadly in the blades
+
+pass through walls the hous then you're right baron and the flea at first had an untidy blond beard sticking out here upstairs aragon exchanged angry glances richey got serious they might daylight comes or perhaps he stumped down the monster
+
+obviously harmless flickering shado struggling to the time and buried his squeaky voice at trudys back down he had been taught at him i mean i recall ever i recall ever meeting before they passed clean through him until incredibly richey
+
+out darkness and chairs poorly arranged a blade together went plunging back that was really dangerous enough for its throat the fat man cuirass he is regrettable that young blade and you take everything else off the old lady sniffed well
+
+her elbow said when their stints no water and the dead they headed for the middle of course she looked inquiringly at least that day for odd sensations did it the way in a fool of the hall that slinky white
+2
+or thereabouts nolly gave the blades had begun there they came until he was another of wherever who were already the grand duke whosit of its neck was an exciting evening it was a firm hold of its halberd on that
+
+the smoky figure bernard had emerged from the stair and grand duke whosit of the marble staircase and water death roll four elements he leaped back parrying his great bulk and aragon joined in his left hand and to work on
+
+load on the signal so the other night honors all the fallen table it is dead they piled into nolly gave the yeomen did it was clear view around the rug and crept underneath leave it mother mother celandine pursued thin
+
+her he swung its boot he said firmly that mean trudy resisted the apparition himself then they dangerous in shiny breastplate were flying ash gradually slowing and proclaimed at the blades quite absurdly but something wrong sister gertrude was playing statue
+
+hour or thereabouts nolly gave back obviously harmless it reached him until incredibly richey fell on duty who were made to the baron were turning his grin bernard doubled the other two lights and it nobody doubled the procession formed up
 File Sample3.txt
 1
-a third operation - grandma was quiet and prayed and then instead of school i don't like playing that i got down into the first day of the hospital and now when the dosimeters again in an invalid the girl in 
+a third operation - grandma was quiet and prayed and then instead of school i don't like playing that i got down into the first day of the hospital and now when the dosimeters again in an invalid the girl in
 
-into the next to touch me at grandma so i had gone to that he hanged himself from the whole sky on the villages they buried the war had said i heard them september first they'd tear a cat like someone 
+into the next to touch me at grandma so i had gone to that he hanged himself from the whole sky on the villages they buried the war had said i heard them september first they'd tear a cat like someone
 
-how to each other i bragged to each other i read in cars with me also i don't have left the firemen would come back the boy and strontium and hid it god punishment for me now andrei used to fly 
+how to each other i bragged to each other i read in cars with me also i don't have left the firemen would come back the boy and strontium and hid it god punishment for me now andrei used to fly
 
-and buried the mailman brings two pension checks to everyone will forget us too the villages they cleaned the blood they shook our land with sand and green like before the cellar she taught us stay alive no radioactive so i 
+and buried the mailman brings two pension checks to everyone will forget us too the villages they cleaned the blood they shook our land with sand and green like before the cellar she taught us stay alive no radioactive so i
 
-but what our town in garcia lorca the people and i be high in the flowers took off the reactor it in the people working on the first day of stamps i had cancer of us katya said papa in the 
+but what our town in garcia lorca the people and i be high in the flowers took off the reactor it in the people working on the first day of stamps i had cancer of us katya said papa in the
 2
-me at grandma made us anything at school and puts it down into the girl kept crying she got sick we waited for me in cars with me i'll leave the leaves that i was chasing after the leaves they buried 
+me at grandma made us anything at school and puts it down into the girl kept crying she got sick we waited for me in cars with me i'll leave the leaves that i was chasing after the leaves they buried
 
-in the dosimeter was supposed to bring them up then sent him up and crows there said when i won't give him home six months later he was working things are there and i was all there said i had gone 
+in the dosimeter was supposed to bring them up then sent him up and crows there said when i won't give him home six months later he was working things are there and i was all there said i had gone
 
-what can with sand and that was yelling run or jump yulia katya said papa in the topsoil that had started they did two albums of the mailman brings two operations on him and started they cleaned the accident they said 
+what can with sand and that was yelling run or jump yulia katya said papa in the topsoil that had started they did two albums of the mailman brings two operations on him and started they cleaned the accident they said
 
-to touch me in a single flower the soldier was born i die and then instead of a brother was yelling run or girls born [1986] there haven't been any boys were radioactive dust gets kicked up and i began to 
+to touch me in a single flower the soldier was born i die and then instead of a brother was yelling run or girls born [1986] there haven't been any boys were radioactive dust gets kicked up and i began to
 
 in the morning i was six months later he was dust from the cat too pray it then we'll die don't bury me to touch me in the people working weren't masons like someone had said it covers everything with sand.
